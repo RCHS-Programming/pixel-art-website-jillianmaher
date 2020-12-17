@@ -1,4 +1,4 @@
-## Create a grid of pixels
+## Create a grid of pixels   
 
 Let's create a grid of pixels that you can use for creating pixel art.
 
